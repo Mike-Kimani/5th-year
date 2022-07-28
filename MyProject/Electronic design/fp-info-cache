@@ -1,4 +1,4 @@
-20182939852010629
+20184598413309574
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84886,8 +84886,8 @@ AC_DC
 
 
 0
-0
-0
+4
+4
 UserLibrary
 CP_Radial_D5.0mm_P2.50mm
 CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
@@ -84930,6 +84930,13 @@ KF250T-5.0
 0
 16
 16
+UserLibrary
+MP1854
+
+
+0
+8
+8
 UserLibrary
 MagneticBuzzer_Kingstate_KCG0601
 Buzzer, Elektromagnetic Beeper, Summer,
